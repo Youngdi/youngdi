@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 745.1 kB Used in GitHub's Storage 
+> 📦 745.2 kB Used in GitHub's Storage 
  > 
 > 🏆 80 Contributions in the Year 2024
  > 
@@ -79,7 +79,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Youngdi/Youngdi/master/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2024 18:51:47 UTC
+ Last Updated on 24/02/2024 18:50:53 UTC
 <!--END_SECTION:waka-->
 
 ![wakatime](./images/stat.svg)
