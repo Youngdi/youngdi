@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,11 +52,11 @@ Markdown                 31 mins             █░░░░░░░░░░�
 VS Code                  16 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-drawer                   9 hrs 27 mins       ██████████████░░░░░░░░░░░   55.82 % 
+drawer                   9 hrs 27 mins       ██████████████░░░░░░░░░░░   55.81 % 
 drawer-pilot             3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 zoolake                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 drawer-nucleus-client    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-catalyst                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+catalyst                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
 Mac                      16 hrs 56 mins      █████████████████████████   100.00 % 
@@ -79,7 +79,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Youngdi/Youngdi/master/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2024 18:52:27 UTC
+ Last Updated on 22/06/2024 18:50:49 UTC
 <!--END_SECTION:waka-->
 
 ![wakatime](./images/stat.svg)
